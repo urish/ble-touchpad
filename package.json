@@ -1,0 +1,21 @@
+{
+  "name": "ble-touchpad",
+  "version": "1.0.0",
+  "description": "MPR121 based BLE Touchpad for the Intel Edison",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/urish/ble-touchpad.git"
+  },
+  "dependencies": {
+    "bleno": "0.4.0",
+    "edison-io": "0.9.4",
+    "johnny-five": "0.9.39"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uri Shaked",
+  "license": "ISC"
+}
